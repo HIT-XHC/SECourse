@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 
 //test
 public class GUI_2 {
-
+//first
 	private JFrame frame;
 	private JTextField textField;
 
